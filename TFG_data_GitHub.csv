@@ -1,0 +1,75 @@
+﻿MUESTRA,PARENTESCO,SEXO,EDAD,A. GENÉTICA,UL,UM,UR,LL,LM,LR
+LGC001,,F,29,Europea,C H,G,A C E H, C  J,A C J, C J
+LGC002,,M,21,Europea,C D H,D C,C D,C ,A,C
+LGC003,,M,22,Europea,C A,A,A C ,C H,A C,A C
+LGC004,,M,21,Europea,A C J,G,A C J,C J,A C J,C J
+LGC005,,F,20,Europea,C G,C G,C G,C,A,C
+LGC006,,F,21,Europea,C L,A C,C,C L,A C,C D L
+LGC007,,M,36,Europea,C,A C D,C D,A C,A C,C
+LGC008,,M,23,Europea,C,A C,C,A C ,C,C
+LGC009,,F,24,Europea,A C,A,A C,A C,A,A C
+LGC010,,M,23,Europea,C J L,C H J,J,C H J,J,C J K
+LGC011,,F,22,Europea,C E G H K,A E L,C H L ,C,A C E,C
+LGC012,,M,22,Europea,C,A C G,A C,C,A C,A C H 
+LGC013,,F,22,Europea,C,C,A C,A C,A C,A C
+LGC014,,M,27,Europea,/,G,/,A C,A,C
+LGC015,,M,19,Europea,C J,C J,C J,J,J,EJ
+LGC016,,F,43,Europea,D G,D G H,D G,C G,A G,C G
+LGC017,,F,23,Europea,A C,C G,A C,A C,A C,A C
+LGC018,Mellizo con 023,M,21,Europea,A C,/,C,A C H,C J,C H L
+LGC019,,M,21,Europea,/,/,/,/,/,/
+LGC020,,F,21,Europea,C,C,C,C,C,C
+LGC021,,F,21,Europea,E C,C,H C,C,C E,C
+LGC022,,M,21,Europea,C,/,C,C E,C,C
+LGC023,Mellizo con 018,F,21,Europea,C,G,C,A,A C,A C
+LGC024,,M,23,Europea,C G,G,C G,C,A,C
+LGC025,,M,27,Europea,A C G,G,A G,C,A C  ,A C
+LGC026,,F,24,Europea,A C D,A C G,A C G,A C G,A C G,C
+LGC027,,F,21,Europea,C G,G,C G,A C D G H,G,A C D H
+LGC028,,M,21,Europea,A C,C J,A C,C  J,A J,C  J
+LGC029,,M,21,Europea,A C G,A D G,A C G H,A C G,A C E G,A C G
+LGC030,,F,22,Europea,C,C,/,C,A C,C
+LGC031,,F,25,Europea,C,A C,C,A C,A C,A C
+LGC032,,F,21,Europea,A C,A,A C ,C,A B,A C  
+LGC033,,F,23,Europea,A C H,A,C D K,A C,A,A C
+LGC034,,F,24,Europea,A C,A C G,C,A C G,A C G,A C G
+LGC035,,F,21,Europea,C G,C G,C G,C,A,A C
+LGC036,,F,21,Europea,G,G,G,C J,A C  J,C  J
+LGC037,,M,22,Europea, C  G,A G,C G,C,A C,C
+LGC038,,M,22,Europea,C G,C G,A C G,C J,C  J,C J
+LGC039,,M,23,Europea,C,G,/,C H,A C,C  
+LGC040,,M,23,Europea,A C,A,A C,C,A C,A C
+LGC041,,M,27,Europea,A C,C,A C,A C,A C,C
+LGC042,,M,19,Europea,C D,A C D,C D,C J,C J,C J
+LGC043,,M,20,Europea,C H,C,C,A C E,A C,C E
+LGC044,,F,18,Europea,A C ,A C,A C,C,A,C
+LGC045,,M,23,Europea,A C J,A C J,C J,C,C,C
+LGC046,,F,38,Asiática,A C,G,A C,C,A C,A C
+LGC047,,F,46,Europea,C H J K,C H J,C H J K, C J,A B C, C J
+LGC048,,F,20,Europea,A C,G,A C,C,A C,C L
+LGC049,,M,20,Europea,C H,/,C, C,A,C
+LGC050,Gemela con 051,F,23,Europea,C,/,C,C,C,C
+LGC051,Gemela con 050,F,24,Europea,C,/,A C D ,C D,A C,C
+LGC052,Hija de 054,F,56,Europea,C ,A C,C,C,E,C
+LGC053,,M,57,Europea,   A C,A C,A C,C,A C,A C
+LGC054,Madre de 052,F,78,Europea,L,C,C,C,A ,/
+LGC055,,F,18,Europea,C,A C,C,A C,A,C
+LGC056,,F,20,Europea,A C,/,A C,C,A,C  
+LGC057,,M,19,Europea,C,A C D,C D,A C,C H K,C
+LGC058,,F,21,Europea,C H,A C,C H K L,C,A C,A C
+LGC059,,M,26,Europea,C,/,C,C,C,C
+LGC060,,M,24,Europea,A C G,C G,A C G,A C,A C,A C
+LGC061,,F,29,India,H J,I J ,J,C H,C,C
+LGC062,,M,23,Europea,C J,J,C J,C,/,C
+LGC063,"Hijo de 052, nieto de 054",M,24,Europea,C,C,C,C H,A C,A C
+LGC064,,F,21,Asiática,A C G K,C G,C G,A H,A C,A C H
+LGC065,,F,39,Europea,C H,/,C D E,C,C,C
+LGC066,,F,46,Europea,E G,G,E,C,A C,C
+LGC067,,F,21,Asiática,C J,J,C J,C,C,C E
+LGC068,,M,21,Africana ,A C E,A B C D K,A C D,/,E,/
+LGC069,,M,21,Europea,J,J,J,A C,A C,A C
+LGC070,,M,26,Europea,C,C H J,C,C,A C,A C
+LGC071,,F,21,India,A C,C I,C,C K,C,C
+LGC072,,M,24,Africana ,/,C,C,A C,A C,C
+LGC073,,M,23,Europea,C,/,C,C,A C,C
+LGC074,,M,20,Europea,C J L,C J,C J ,C,A C,C
